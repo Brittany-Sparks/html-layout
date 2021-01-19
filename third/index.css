@@ -1,0 +1,33 @@
+#section1{
+    height:150px;
+    background-color: lightgray;
+}
+
+#square {
+    width: 100px;
+    height: 100px;
+    background: cornflowerblue;
+    display: inline-block;
+    margin: 20px;
+  }
+
+  #section2{
+    text-align: center;
+  }
+
+  #section3{
+    height:150px;
+    background-color: cornflowerblue;
+  }
+  #section4{
+    height:150px;
+    background-color: rgb(111, 226, 169);
+  }
+  #section5{
+    height:150px;
+    background-color: rgb(158, 243, 158);
+  }
+  #section6{
+    height:150px;
+    background-color: yellow;
+  }
